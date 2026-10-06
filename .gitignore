@@ -1,0 +1,10 @@
+# secrets - never commit
+secrets.h
+*.env
+# build / IDE
+.pio/
+.vscode/
+build/
+*.bin
+*.elf
+.DS_Store
